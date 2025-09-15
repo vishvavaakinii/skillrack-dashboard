@@ -42,10 +42,10 @@ Before you begin, ensure you have the following installed:
 
 ```bash
 # Clone the repository
-git clone https://github.com/Vishvavaakini/skill.git
+git clone https://github.com/Vishvavaakinii/skillrack-dashboard.git
 
 # Navigate to project directory
-cd skill
+cd skillrack-dashboard
 ```
 
 ### 2. Frontend Setup
@@ -82,8 +82,8 @@ The backend API will be available at `http://localhost:5000` (or configured port
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/Vishvavaakini/skill.git
-   cd skill
+   git clone https://github.com/Vishvavaakinii/skillrack-dashboard.git
+   cd skillrack-dashboard
    ```
 
 2. **Setup Frontend**:
@@ -152,15 +152,11 @@ The backend API will be available at `http://localhost:5000` (or configured port
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-## 📝 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## 👨‍💻 Author
 
 **Vishvavaakini**
-- GitHub: [@Vishvavaakini](https://github.com/Vishvavaakini)
-- Email: ikvishvav24@gmail.com
+- GitHub: [@Vishvavaakinii](https://github.com/Vishvavaakinii)
+- Email: vish0vaks@gmail.com
 
 ## 🙏 Acknowledgments
 
@@ -170,4 +166,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-**Happy Coding! 🚀**
+
+**Keep Learning And Keep Exploring! 🚀**
